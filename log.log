@@ -1,0 +1,100 @@
+autoreconf: Entering directory `.'
+autoreconf: configure.ac: not using Gettext
+autoreconf: running: aclocal --force -I m4 ${ACLOCAL_FLAGS}
+aclocal: warning: couldn't open directory 'm4': No such file or directory
+autoreconf: configure.ac: tracing
+autoreconf: configure.ac: not using Libtool
+autoreconf: running: /usr/bin/autoconf --force
+autoreconf: running: /usr/bin/autoheader --force
+autoreconf: running: automake --add-missing --copy --force-missing
+src/doclets/devhelp/Makefile.am:25: error: Libtool library used but 'LIBTOOL' is undefined
+src/doclets/devhelp/Makefile.am:25:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/doclets/devhelp/Makefile.am:25:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/doclets/devhelp/Makefile.am:25:   If 'LT_INIT' is in 'configure.ac', make sure
+src/doclets/devhelp/Makefile.am:25:   its definition is in aclocal's search path.
+src/doclets/gtkdoc/Makefile.am:25: error: Libtool library used but 'LIBTOOL' is undefined
+src/doclets/gtkdoc/Makefile.am:25:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/doclets/gtkdoc/Makefile.am:25:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/doclets/gtkdoc/Makefile.am:25:   If 'LT_INIT' is in 'configure.ac', make sure
+src/doclets/gtkdoc/Makefile.am:25:   its definition is in aclocal's search path.
+src/doclets/html/Makefile.am:25: error: Libtool library used but 'LIBTOOL' is undefined
+src/doclets/html/Makefile.am:25:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/doclets/html/Makefile.am:25:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/doclets/html/Makefile.am:25:   If 'LT_INIT' is in 'configure.ac', make sure
+src/doclets/html/Makefile.am:25:   its definition is in aclocal's search path.
+src/driver/0.20.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.20.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.20.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.20.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.20.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/driver/0.22.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.22.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.22.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.22.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.22.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/driver/0.24.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.24.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.24.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.24.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.24.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/driver/0.26.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.26.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.26.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.26.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.26.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/driver/0.28.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.28.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.28.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.28.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.28.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/driver/0.30.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.30.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.30.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.30.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.30.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/driver/0.32.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.32.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.32.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.32.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.32.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/driver/0.34.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.34.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.34.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.34.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.34.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/driver/0.36.x/Makefile.am:29: error: Libtool library used but 'LIBTOOL' is undefined
+src/driver/0.36.x/Makefile.am:29:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/driver/0.36.x/Makefile.am:29:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/driver/0.36.x/Makefile.am:29:   If 'LT_INIT' is in 'configure.ac', make sure
+src/driver/0.36.x/Makefile.am:29:   its definition is in aclocal's search path.
+src/libvaladoc/Makefile.am:32: error: Libtool library used but 'LIBTOOL' is undefined
+src/libvaladoc/Makefile.am:32:   The usual way to define 'LIBTOOL' is to add 'LT_INIT'
+src/libvaladoc/Makefile.am:32:   to 'configure.ac' and run 'aclocal' and 'autoconf' again.
+src/libvaladoc/Makefile.am:32:   If 'LT_INIT' is in 'configure.ac', make sure
+src/libvaladoc/Makefile.am:32:   its definition is in aclocal's search path.
+autoreconf: automake failed with exit status: 1
+checking whether make supports nested variables... yes
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking whether UID '1000' is supported by ustar format... yes
+checking whether GID '1000' is supported by ustar format... yes
+checking how to create a ustar tar archive... gnutar
+checking whether to enable maintainer-specific portions of Makefiles... yes
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking for style of include used by make... GNU
+checking dependency style of gcc... gcc3
+./configure: line 3843: syntax error near unexpected token `disable-static'
+./configure: line 3843: `LT_INIT(disable-static)'
+
